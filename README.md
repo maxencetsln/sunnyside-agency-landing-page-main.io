@@ -1,6 +1,7 @@
 # Frontend Mentor - Order summary component
 
-This is a solution to the [Results summary component] (https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the Sunnyside agency landing page (https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef/hub). 
+Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ### Links
 

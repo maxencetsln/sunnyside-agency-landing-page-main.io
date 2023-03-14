@@ -1,4 +1,4 @@
-# Frontend Mentor - Order summary component
+# Frontend Mentor - Sunnyside agency landing page
 
 This is a solution to the [Sunnyside agency landing page](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef/hub). 
 

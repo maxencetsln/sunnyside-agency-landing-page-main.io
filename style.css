@@ -356,4 +356,7 @@ footer {
     .galleryPictures {
         width: 50%;
     }
+    .container {
+        padding-top: 250px;
+    }
 }
